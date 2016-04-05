@@ -14,8 +14,7 @@ endif()
 #############################
 # Creation of the project  ##
 #############################
-set(PROJECT_NAME "BiiGOptitrack" CACHE STRING "")
-project(${PROJECT_NAME})
+project(BiiGOptitrack)
 
 # Version Control of the project
 set (${PROJECT_NAME}_VERSION_MAJOR 2)
